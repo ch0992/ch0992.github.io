@@ -9,7 +9,7 @@ name: Greg Choi
 description: Welcome my Tech Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/u/12740438?v=4
+avatar: https://avatars.githubusercontent.com/u/12740438?s=400&u=ae33c9ebf056b08c248942bdf03282ac21068862&v=4
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://avatars.githubusercontent.com/u/12740438?v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: choilee6@naver.com
   facebook:
   flickr:
   github: ch0992
+  email: choilee6@naver.com
   instagram:
   linkedin:
   pinterest:
